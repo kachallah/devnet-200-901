@@ -1,0 +1,407 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AddressBook>
+	<pbgroup>
+		<id>1</id>
+		<name>Blacklist</name>
+	</pbgroup>
+	<pbgroup>
+		<id>2</id>
+		<name>Whitelist</name>
+	</pbgroup>
+	<Contact>
+		<id>15</id>
+		<FirstName>AIDA</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>22</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>11</id>
+		<FirstName>ALASSANE</FirstName>
+		<LastName>MBAYE</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>88</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2</id>
+		<FirstName>ALIOUNE</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>54</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>17</id>
+		<FirstName>AMADOU</FirstName>
+		<LastName>FALL</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>65</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>9</id>
+		<FirstName>AWA</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>30</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>32</id>
+		<FirstName>BABA</FirstName>
+		<LastName>DIALLO</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>40</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>29</id>
+		<FirstName>BOARDING</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>26</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>31</id>
+		<FirstName>CAISSE</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>42</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>6</id>
+		<FirstName>CISSE</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>33</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>10</id>
+		<FirstName>COLY</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>27</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>14</id>
+		<FirstName>DENISE</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>41</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>28</id>
+		<FirstName>DIENG</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>81</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>4</id>
+		<FirstName>ELHADJI</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>59</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>22</id>
+		<FirstName>ELIMANE</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>51</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>24</id>
+		<FirstName>EQUIPMENT</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>29</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>26</id>
+		<FirstName>FATMA</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>35</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>19</id>
+		<FirstName>GUEYE</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>72</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>8</id>
+		<FirstName>HAROUNA</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>31</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>16</id>
+		<FirstName>HENRIETTE</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>28</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>12</id>
+		<FirstName>KELLY</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>85</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>39</id>
+		<FirstName>KHADIJETOU</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>24</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>34</id>
+		<FirstName>LAMINE</FirstName>
+		<LastName>SECK</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>36</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>5</id>
+		<FirstName>LO</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>39</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>25</id>
+		<FirstName>MANIFESTE</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>77</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>13</id>
+		<FirstName>MME TOURE</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>20</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>3</id>
+		<FirstName>Moctar</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>52</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>21</id>
+		<FirstName>MOUSSA</FirstName>
+		<LastName>CISSE</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>38</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>7</id>
+		<FirstName>NAFI</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>50</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>27</id>
+		<FirstName>NDICKE</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>48</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>30</id>
+		<FirstName>PAPE DEMBA</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>58</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>23</id>
+		<FirstName>PAUL</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>61</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>33</id>
+		<FirstName>RAISSA</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>37</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>38</id>
+		<FirstName>SANKHARE</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>44</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>37</id>
+		<FirstName>SARR</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>47</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>35</id>
+		<FirstName>TIM</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>23</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>20</id>
+		<FirstName>TRANSIT</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>66</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>36</id>
+		<FirstName>VIGILE</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>56</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>1</id>
+		<FirstName>Yero</FirstName>
+		<LastName>SALL</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>21</phonenumber>
+			<accountindex>1</accountindex>
+		</Phone>
+		<Phone type="Home">
+			<phonenumber>21</phonenumber>
+			<accountindex>1</accountindex>
+		</Phone>
+		<Phone type="Mobile">
+			<phonenumber>21</phonenumber>
+			<accountindex>1</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+	</Contact>
+</AddressBook>
+
+
